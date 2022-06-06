@@ -1,0 +1,7 @@
+[user]
+	email = bastienmiss31@gmail.com
+	name = Babadu31
+[push]
+	default = current
+[credential]
+	helper = store
